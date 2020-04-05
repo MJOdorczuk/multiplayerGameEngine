@@ -1,5 +1,6 @@
+import Vector2 from '../geometry/Vector2';
+
 export default interface IObject {
   shape: string;
-  x: number;
-  y: number;
+  position: Vector2;
 }

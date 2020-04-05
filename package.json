@@ -61,7 +61,7 @@
     "three": "^0.109.0"
   },
   "engines": {
-    "node": "^10.16.2"
+    "node": ">10"
   },
   "repository": {
     "type": "git",
